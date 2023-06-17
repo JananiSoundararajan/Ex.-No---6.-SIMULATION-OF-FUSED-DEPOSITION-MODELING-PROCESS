@@ -27,4 +27,4 @@
 ### Register Number: 212222230049
 
 ## Result:
-### Thus the simulation on the FDM process is completed & prototyping process is studied..
+### Thus the simulation on the FDM process is completed & prototyping process is studied.
